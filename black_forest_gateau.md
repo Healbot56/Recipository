@@ -13,13 +13,17 @@ Note: Mass is the preferred measure.  Volumetric measurements are *reference onl
 |Bicarbonate of soda|1 tsp|Baking soda|
 |Medium eggs|2||
 |Buttermilk|200g|Or natural yogurt|
+|Pitted cherries|425g (about 2 jars)||
+|Morello cherry jam|100g||
+|Kirsch|4tbsp|Replace this with cherry juice|
 
 ##Instructions
 
-###Preparation for baking
+###Preparation
 1. Preheat oven to 350F.
 1. Grease the base of 3 20cm cake tins.  (We use 2x cake tins of unknown diameter)
 1. Line the tins with baking parchment.
+1. Drain the cherries, keep about 6 tbsp of the juice for later use.
 
 ###Section 1 - Creating chocolate mixture
 1. Boil the kettle
